@@ -1,0 +1,17 @@
+テンプレを作るコマンド
+
+さきにリアクトを仕上げてからエレクトロンに乗っける
+
+
+node.jsを入れるために、
+リアクトエレクトロンのrootdeで、packege.jsonが表札
+
+そこでnpm install
+	すると、node_modulesっていうJavaScriptファイルの塊がpackege.json通りにインストールされる、ライブラリ
+
+見た目はsrc/index.jsの<div className="main">の中に書くと反映される
+
+index.cssを反映する
+
+コンポーネント（関数）として追加される
+	componentsの中に拡張子jsx
